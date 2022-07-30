@@ -1,2 +1,2 @@
 # trabalho-metmat
-Trabalho de Métodos Matemáticos de Engenharia
+Trabalho de Métodos Matemáticos de Engenharia Eletrônica
