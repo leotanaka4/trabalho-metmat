@@ -3,6 +3,6 @@ Trabalho de Métodos Matemáticos de Engenharia Eletrônica
 
 Questões focadas em:
 
-Polinômios de Taylor
-Funções Complexas
-Transformada de Laplace
+  Polinômios de Taylor
+  Funções Complexas
+  Transformada de Laplace
